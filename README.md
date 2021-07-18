@@ -1,1 +1,1 @@
-# rsschool-cv
+https://x64net.github.io/rsschool-cv/cv
