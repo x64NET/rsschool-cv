@@ -1,0 +1,36 @@
+.blue {
+  color: #0004ff;
+}
+h3 {
+  background-color: #c0c1ee;
+  padding: 10px 10px 10px 10px;
+  width: 780px;
+  height: 30px;
+}
+h2 {
+  background-color: #c0c1ee;
+  padding: 10px 10px 10px 0px;
+  width: 790px;
+  height: 30px;
+}
+code {
+  width: 230px;
+  height: 25px;
+  padding: 15px;
+  margin: 200px;
+  font-size: 15px;
+  background-color: #f3efef;
+  border: 1px solid #000000;
+}
+body {
+  margin: 0 auto;
+  max-width: 1024px;
+  font-family: Arial, sans-serif;
+}
+.img {
+  float: left;
+  margin: 0px 25px 15px 0px;
+}
+.footer-img {
+  margin-right: 20px;
+}
